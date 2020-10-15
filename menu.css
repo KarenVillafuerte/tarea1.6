@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@100&display=swap');
+
+
+a
+{
+	font-family: 'Piazzolla', serif;
+	color: #cc0099;
+	font-size: 40px;
+	text-decoration: none;
+}
 body
 {
 	background-color: #f2e6ff;
@@ -6,6 +16,7 @@ body
 h1
 {
 	text-align: center;
+	font-size: 45px;
 }
 table
 {
@@ -16,5 +27,5 @@ table
 
 .menu a:hover
 {
-	background: rgba(0, 0, 255, 0.1);
+	background: rgba(255, 0, 128, 0.15);
 }
